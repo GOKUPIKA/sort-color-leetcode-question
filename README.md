@@ -9,18 +9,17 @@ Given an array nums with n objects colored red, white, or blue, sort them in-pla
 **TESTCASE**
 
 Example 1:
-
 Input: nums = [2,0,2,1,1,0]
 Output: [0,0,1,1,2,2]
-Example 2:
 
+Example 2:
 Input: nums = [2,0,1]
 Output: [0,1,2]
-Example 3:
 
+Example 3:
 Input: nums = [0]
 Output: [0]
-Example 4:
 
+Example 4:
 Input: nums = [1]
 Output: [1]
